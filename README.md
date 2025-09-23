@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Thorge Mrowinski
 - 👀 I’m interested in future technology like AI
-- 🌱 I’m currently learning to code HTML and Flutter 
-- 💞️ I’m looking to collaborate on building my onw AI-model 
+- 🌱 I’m currently learning to code HTML and Swift 
+- 💞️ I’m looking to collaborate on training my onw AI-model 
 - 📫 How to reach me thorge.mrowinski@proton.me
 - 😄 Pronouns: he
-- ⚡ Fun fact: I don't know how to code , but AI does.
+- ⚡ Fun fact: 404 Fact not found.
 -
 - <!---
 Mrowinski-Thorge/Mrowinski-Thorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
