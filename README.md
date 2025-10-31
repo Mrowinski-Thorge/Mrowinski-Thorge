@@ -2,7 +2,7 @@
 - 👀 I’m interested in future technology like AI
 - 🌱 I’m currently learning to code HTML and Swift 
 - 💞️ I’m looking to collaborate on training my onw AI-model 
-- 📫 How to reach me thorge.mrowinski@proton.me
+- 📫 How to reach me thorge.dev@proton.me
 - 😄 Pronouns: he
 - ⚡ Fun fact: 404 Fact not found.
 -
