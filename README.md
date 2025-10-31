@@ -5,8 +5,7 @@
 - 📫 How to reach me thorge.dev@proton.me
 - 😄 Pronouns: he
 - ⚡ Fun fact: 404 Fact not found.
--
-- <!---
+ <!---
 Mrowinski-Thorge/Mrowinski-Thorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
